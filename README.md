@@ -128,8 +128,8 @@ Visit `http://localhost:5000/` to use the web app.
 ## ✍️ Author
 
 **Prasad JB**
-M.Sc. AI & ML, IIIT Lucknow
-🔗 [GitHub](https://github.com/Prasad JB2) | [LinkedIn](https://linkedin.com/in/Prasad JB)
+B.TECH Information Technology, IIIT Lucknow
+🔗 [GitHub](https://github.com/Prasad JB) | [LinkedIn](https://linkedin.com/in/Prasad JB)
 
 ---
 
