@@ -93,7 +93,7 @@
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/Prasad JB2/crop-recommendation-system.git
+git clone https://github.com/Prasad-JB/crop-recommendation-system.git
 cd crop-recommendation-system
 ````
 
@@ -129,7 +129,7 @@ Visit `http://localhost:5000/` to use the web app.
 
 **Prasad JB**
 B.TECH Information Technology, IIIT Lucknow
-🔗 [GitHub](https://github.com/Prasad JB) | [LinkedIn](https://linkedin.com/in/Prasad JB)
+🔗 [GitHub](https://github.com/Prasad JB) | [LinkedIn](https://linkedin.com/in/prasad-jb-a67416339)
 
 ---
 
